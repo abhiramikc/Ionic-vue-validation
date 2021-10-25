@@ -1,0 +1,7 @@
+{
+  "name": "my-form-validation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

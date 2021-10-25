@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-form-validation",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
